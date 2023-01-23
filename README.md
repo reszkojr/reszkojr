@@ -15,8 +15,8 @@
 </p>
 <h3 align="left"> I can speak...</h3>
 <p align="left">
-<img src="languages/pt-br.png" alt="português" title="Português" height="35" width="45" />
-<img src="languages/en-us.jpg" alt="english" title="English" height="35" width="45" />
+<img src="language/pt-br.png" alt="português" title="Português" height="35" width="45" />
+<img src="language/en-us.jpg" alt="english" title="English" height="35" width="45" />
 </p>
 
 <h3 align="left">Linguagens:</h3>
