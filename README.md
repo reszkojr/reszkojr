@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reszkojr&label=Profile%20views&color=0e75b6&style=flat" alt="reszkojr" /> </p>
 
-- 🌱 Neste exato momento eu estou aprendendo: **Spring Framework, MVC, Git, MYSQL**
+- 🌱 Neste exato momento eu estou aprendendo: **Spring Framework, Django, MVC, Git, MYSQL**
 
 - 📫 Meu contato: **s.reszkojr@gmail.com**
 
