@@ -1,5 +1,5 @@
 <h1 align="left">Greetings, I am Fabio!</h1>
-<h3 align="left">Instituto Federal do Paraná student</h3>
+<h3 align="left">Instituto Federal do Paraná student and the Manthano creator</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/reszkojr?label=Follow&style=social)](https://github.com/reszkojr/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-s.reszkojr-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:s.reszkojr@gmail.com)](mailto:s.reszkojr@gmail.com)
@@ -9,6 +9,8 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=reszkojr&color=red&style=flat)](https://komarev.com/ghpvc/?username=reszkojr)
 
 :wave: Hello! My name is Fabio dos Santos Reszko Junior, I am currently working on expanding my knowledges in Python and Java, specifically and respectively in the Django and Spring Boot frameworks.
+
+I am currently working on the Manthano project.
 
 Right away I am studying on *Instituto Federal do Paraná* with the *Técnico em Informática* course.
 
