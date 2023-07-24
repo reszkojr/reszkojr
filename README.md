@@ -1,5 +1,7 @@
+![monsteras](https://github.com/reszkojr/reszkojr/assets/67809084/814f362b-3d85-4314-88a3-7049204af298)
 <h1 align="left">Greetings, I am Fabio!</h1>
 <h3 align="left">Instituto Federal do Paraná student and the Manthano creator</h3>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/reszkojr?label=Follow&style=social)](https://github.com/reszkojr/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-s.reszkojr-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:s.reszkojr@gmail.com)](mailto:s.reszkojr@gmail.com)
