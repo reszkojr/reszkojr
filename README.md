@@ -10,11 +10,11 @@
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=reszkojr&color=red&style=flat)](https://komarev.com/ghpvc/?username=reszkojr)
 
-:wave: Hello! My name is Fabio dos Santos Reszko Junior, I am currently working on expanding my knowledges in Python and Java, specifically and respectively in the Django and Spring Boot frameworks.
+:wave: Hello! My name is Fabio dos Santos Reszko Junior, I am currently working on expanding my knowledges in Java, Python and ReactJS.
 
-I am currently working on the Manthano project.
+I am currently working on the Manthano project, a virtual environment for learning and sharing resources.
 
-Right away I am studying on *Instituto Federal do Paraná* with the *Técnico em Informática* course.
+Right away I am studying on *Instituto Federal do Paraná* in the *Técnico em Informática* (Computer Technician) course, finishing an [Academic Acceleration](https://nagc.org/page/acceleration). 
 
 <div align="center">
     <details>
