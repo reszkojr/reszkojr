@@ -1,4 +1,3 @@
-![monsteras](https://github.com/reszkojr/reszkojr/assets/67809084/814f362b-3d85-4314-88a3-7049204af298)
 <h1 align="left">Greetings, I am Fabio!</h1>
 <h3 align="left">Instituto Federal do Paraná student and the Manthano creator</h3>
 
