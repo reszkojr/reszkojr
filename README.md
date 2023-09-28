@@ -9,7 +9,7 @@
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=reszkojr&color=red&style=flat)](https://komarev.com/ghpvc/?username=reszkojr)
 
-:wave: Hey! I'm Fabio! My main targets are working on expanding my knowledges in Python, Java and ReactJS.
+:wave: Hey, I'm Fabio and I'm a software engineer! My main targets are working on expanding my knowledges in Python, Java and ReactJS.
 
 By this time, I am working on the Manthano project, a virtual environment for learning and sharing resources.
 
