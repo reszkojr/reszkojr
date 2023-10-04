@@ -14,7 +14,7 @@
 By this time, I am working on the Manthano project, a virtual environment for managing a classroom with a variety of functionalities, such as AI integration, classroom internal chat servers and a shared calendar between professors
 to schedule activities.
 
-Right away I am studying on *Instituto Federal do Paraná* in the *Técnico em Informática* (Computer Technician) course, finishing an [Academic Acceleration](https://nagc.org/page/acceleration), a process designed to enhance gifted students' lives. 
+Right away I am studying on *Instituto Federal do Paraná* in the *Técnico em Informática* (Computer Technician) course, finishing an [Academic Acceleration](https://nagc.org/page/acceleration), a process designed to help gifted students by grade-skipping. As of now, I am in my last year of High School.
 
 ### These are my main projects!:
 
