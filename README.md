@@ -1,5 +1,5 @@
 <h1 align="left">Greetings, I am Fabio!</h1>
-<h3 align="left">Instituto Federal do Paraná accelerator and Manthano creator!</h3>
+<h3 align="left">Instituto Federal do Paraná student and Manthano creator!</h3>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/reszkojr?label=Follow&style=social)](https://github.com/reszkojr/?tab=follow)
