@@ -9,7 +9,7 @@
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=reszkojr&color=red&style=flat)](https://komarev.com/ghpvc/?username=reszkojr)
 
-:wave: Hey, I'm Fabio and I'm a software engineer! My main targets are working on expanding my knowledges in Python, ReactJS and other interesting JavaScript frameworks, such as Node.js, Next.js and Express.js.
+I'm Fabio and I'm a software engineer. My main targets are working on expanding my knowledges in Python, ReactJS and other interesting JavaScript frameworks, such as Node.js, Next.js and Express.js.
 
 By this time, I am working on the Manthano project, a virtual environment for managing a classroom with a variety of functionalities, such as AI integration, classroom internal chat servers and a shared calendar between professors
 to schedule activities.
